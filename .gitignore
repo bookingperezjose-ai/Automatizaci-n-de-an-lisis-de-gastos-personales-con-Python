@@ -1,0 +1,8 @@
+﻿transactions.csv
+expenses_clean.csv
+monthly_summary.csv
+outliers_detected.csv
+top10_expenses.csv
+kpis_summary.csv
+__pycache__/
+*.pyc
